@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "JavaTutorial",
+			"path": "../../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../../src"
+		}
+	],
+	"settings": {}
+}
