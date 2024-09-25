@@ -1,6 +1,6 @@
 // S(n) = 1/2 + 1/4 + ... + 1/2n
 
-package Day1.Exercise;
+package Exercise;
 
 import java.util.Scanner;
 

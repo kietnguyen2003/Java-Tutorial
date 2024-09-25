@@ -1,6 +1,6 @@
-package Day1.Array;
+package Section;
 
-public class ArrayExample {
+public class Array {
   public static void main(String[] args) {
     // Khai báo và khởi tạo một mảng gồm 5 phần tử kiểu int
     int[] numbers = new int[5];

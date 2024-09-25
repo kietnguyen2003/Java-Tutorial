@@ -1,5 +1,5 @@
 // Tính S(n) = 1 + 2 + 3 + 4 + ... + n
-package Day1.Exercise;
+package Exercise;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package Day1.Array;
+package Section;
 
-public class TwoDimensionalArrayExample {
+public class TwoDimensionalArray {
   public static void main(String[] args) {
     int[][] matrix = {
       {1, 2, 3},

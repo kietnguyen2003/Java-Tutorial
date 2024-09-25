@@ -1,4 +1,4 @@
-package Day1.Exercise;
+package Exercise;
 
 public class LeetCodePlusOe{
   public static int[] plusOne(int[] digits) {
@@ -16,7 +16,7 @@ public class LeetCodePlusOe{
   }
 
   public static void main(String[] args) {
-    int[] digits = { 1, 2, 9 };
+    int[] digits = { 9, 9, 9, 9 };
     int[] result = plusOne(digits);
     for (int i : result) {
       System.out.print(i + " ");

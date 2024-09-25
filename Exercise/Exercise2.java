@@ -1,6 +1,6 @@
 // Tính S(n) = 1^2 + 2^2 + 3^2 + ... + n^2
 
-package Day1.Exercise;
+package Exercise;
 
 import java.util.Scanner;
 
